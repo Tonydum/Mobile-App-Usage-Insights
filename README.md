@@ -6,7 +6,7 @@ This repository contains the data and Jupyter notebook for an analysis of mobile
 
 ## Repository Structure
 
-Mobile App Usage and Notification Data.csv: Dataset containing app usage details, notifications, and the number of times apps were opened.
+Mobile App Usage and Notification Data.csv: Dataset obtained fro Kaggle containing app usage details, notifications, and the number of times apps were opened.
 Mobile App Usage Analysis Notebook.ipynb: Jupyter notebook containing the analysis code and insights.
 
 ## Analysis Summary
